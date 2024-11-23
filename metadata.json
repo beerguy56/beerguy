@@ -1,10 +1,8 @@
 {
   "name": "BEERGUY",
   "symbol": "BEERGUY",
-  "uri": "https://raw.githubusercontent.com/beerguy56/beerguy/main/metadata.json",
-  "decimals": 9,
-  "logoUri": "https://raw.githubusercontent.com/beerguy56/beerguy/main/beerguy.jpg",
+  "description": "1 million beers please",
+  "image": "https://raw.githubusercontent.com/beerguy56/beerguy/main/beerguy.jpg",
   "tags": ["tiktok memes", "fun"],
-  "website": "https://beerguy.my.canva.site",
-  "description": "1 million beers please"
+  "website": "https://beerguy.my.canva.site"
 }
